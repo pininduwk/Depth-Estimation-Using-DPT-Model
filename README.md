@@ -1,3 +1,5 @@
+[![CI](https://github.com/pininduwk/Depth-Estimation-Using-DPT-Model/actions/workflows/blank.yml/badge.svg)](https://github.com/pininduwk/Depth-Estimation-Using-DPT-Model/actions/workflows/blank.yml)
+
 # Real-time Depth Estimation on Drone Footage Using DPT Model
 
 ## Project Description
